@@ -15,7 +15,8 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/gaah_gsc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/gaah_gsc/" target="_blank"><img width="20%" height="50px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=orangered&color=black"</a>
+<a href="https://www.linkedin.com/in/gabriel-coelho-bb605b1a1/" target="_blank"><img width="20%" height="50px" src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=blue&color=black"</a>
 </div>
 
 
