@@ -1,40 +1,40 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gabriel+Coelho;Backend+Specialist+|+Java+%26+Spring+Boot;Software+Architecture+Enthusiast;From+São+Paulo,+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gabriel+Coelho;Software+Engineer+|+Java+%26+Spring+Boot;Software+Architecture+Enthusiast;From+São+Paulo,+Brazil)](https://git.io/typing-svg)
 
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ocoelhogabriel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Coelho github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocoelhogabriel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ocoelhogabriel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Coelho github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocoelhogabriel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ocoelhogabriel&theme=react-dark&hide_border=true&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ocoelhogabriel&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ocoelhogabriel&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
 ## 💡 Sobre Mim
 
-Sou **Desenvolvedor Backend Java** especializado em **Spring Boot** e **Arquitetura de Software**, com foco em criar aplicações escaláveis, seguras e de alta performance.  
+Sou **Engenheiro de Software Pleno**, especializado no desenvolvimento de aplicações backend com **Java**, **Spring Boot** e **Arquitetura de Software**, com foco em criar soluções escaláveis, seguras e de alta performance.  
 Tenho sólida experiência em **integrações complexas** via REST, WebSocket e protocolos **TCP/IP**, além de domínio em bancos relacionais como **PostgreSQL**, **SQL Server** e **Oracle**.
 
-Acredito em **boas práticas de engenharia** — aplico **SOLID**, **Clean Code** e **Arquitetura Hexagonal (Ports & Adapters)** — para garantir código sustentável e fácil de manter.  
+Acredito em **boas práticas de engenharia** — aplico **SOLID**, **Clean Code** e **Arquitetura Hexagonal (Ports & Adapters)** — para garantir código sustentável e fácil de manter.  
 Busco sempre evoluir minhas habilidades em **DevOps, CI/CD e automação de pipelines**, aprimorando continuamente a entrega de software.
 
 ---
 
 ## 🧠 Mindset Técnico
 
-- **Clean Architecture & SOLID** → sistemas desacoplados, testáveis e escaláveis  
-- **DDD (Domain-Driven Design)** → foco no domínio e valor de negócio  
-- **Clean Code & Refatoração contínua** → clareza e legibilidade em primeiro lugar  
-- **Observabilidade & Monitoramento** → logs estruturados e análise de métricas  
-- **Integrações em Tempo Real** → WebSocket, Socket TCP/IP, JMS e REST  
-- **DevOps & CI/CD** → versionamento com Flyway, automações com GitHub Actions  
+- **Clean Architecture & SOLID** → sistemas desacoplados, testáveis e escaláveis  
+- **DDD (Domain-Driven Design)** → foco no domínio e valor de negócio  
+- **Clean Code & Refatoração contínua** → clareza e legibilidade em primeiro lugar  
+- **Observabilidade & Monitoramento** → logs estruturados e análise de métricas  
+- **Integrações em Tempo Real** → WebSocket, Socket TCP/IP, JMS e REST  
+- **DevOps & CI/CD** → versionamento com Flyway, automações com GitHub Actions  
 
 ---
 
@@ -68,17 +68,18 @@ Busco sempre evoluir minhas habilidades em **DevOps, CI/CD e automação de pipe
 
 ## 🎯 Atualmente Estudando
 
-- **MBA em Arquitetura de Software** – Full Cycle (2025–2026)  
-- **Cloud & CI/CD Pipelines** – boas práticas de implantação contínua  
-- **Observabilidade com Grafana e ELK** – métricas, logs e tracing  
-- **Comunicação Técnica em Inglês** – aprimorando escrita e leitura técnica  
+- **MBA em Arquitetura de Software** – Full Cycle (2025–2026)  
+- **Cloud & CI/CD Pipelines** – boas práticas de implantação contínua  
+- **Observabilidade com Grafana e ELK** – métricas, logs e tracing  
+- **Comunicação Técnica em Inglês** – aprimorando escrita e leitura técnica  
 
 ---
 
 ## 🌍 Idiomas
 
-- 🇧🇷 **Português:** Nativo  
-- 🇺🇸 **Inglês Técnico:** Intermediário (em evolução contínua)  
+- 🇧🇷 **Português:** Nativo  
+- 🇺🇸 **Inglês Técnico:** Intermediário (em evolução contínua)  
+- 🇪🇸 **Espanhol:** Intermediário (boa conversação e interpretação)
 
 ---
 
@@ -91,7 +92,7 @@ Busco sempre evoluir minhas habilidades em **DevOps, CI/CD e automação de pipe
 ---
 
 <div align="center">
-  <img src="https://hits.sh/github.com/ocoelhogabriel.svg?style=flat-square&label=Visitors&color=00bfbf" alt="Visitor count" />
+  <img src="https://hits.sh/github.com/ocoelhogabriel.svg?style=flat-square&label=Visitors&color=00bfbf" alt="Visitor count" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
